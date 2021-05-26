@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.heping0801.gaodun
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
